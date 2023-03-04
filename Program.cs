@@ -226,20 +226,21 @@
 // 7 -> да
 // 1 -> нет       на данный момент мы её уже разобрали на последнем семинаре, но я попробую по памяти
 
-Console.Write("Enter a day of the week from 1 to 7: ");
-int N = Convert.ToInt32(Console.ReadLine());
-if (N > 0 && N < 8)
-{
-    if (N == 6 || N == 7)
-    {
-        Console.WriteLine("*=-.IT`S A WEEKEND.-=*");
-    }
-    else
-    {
-        Console.WriteLine("Go to work :(( ");
-    }
-}
-else
-{
-    Console.WriteLine("There`s no days with such numbers, lol");
-}
+// Console.Write("Enter a day of the week from 1 to 7: ");
+// int N = Convert.ToInt32(Console.ReadLine());
+// if (N > 0 && N < 8)
+// {
+//     if (N == 6 || N == 7)
+//     {
+//         Console.WriteLine("*=-.IT`S A WEEKEND.-=*");
+//     }
+//     else
+//     {
+//         Console.WriteLine("Go to work :(( ");
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("There`s no days with such numbers, lol");
+// }
+//=================================================================================================================================
