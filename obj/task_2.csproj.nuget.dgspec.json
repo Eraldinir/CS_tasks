@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git_test_folder\\S4\\test_c_sharp\\task_2\\task_2.csproj": {}
+    "C:\\Git_test_folder\\S4\\task_2\\task_2.csproj": {}
   },
   "projects": {
-    "C:\\Git_test_folder\\S4\\test_c_sharp\\task_2\\task_2.csproj": {
+    "C:\\Git_test_folder\\S4\\task_2\\task_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git_test_folder\\S4\\test_c_sharp\\task_2\\task_2.csproj",
+        "projectUniqueName": "C:\\Git_test_folder\\S4\\task_2\\task_2.csproj",
         "projectName": "task_2",
-        "projectPath": "C:\\Git_test_folder\\S4\\test_c_sharp\\task_2\\task_2.csproj",
+        "projectPath": "C:\\Git_test_folder\\S4\\task_2\\task_2.csproj",
         "packagesPath": "C:\\Users\\39389\\.nuget\\packages\\",
-        "outputPath": "C:\\Git_test_folder\\S4\\test_c_sharp\\task_2\\obj\\",
+        "outputPath": "C:\\Git_test_folder\\S4\\task_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\39389\\AppData\\Roaming\\NuGet\\NuGet.Config"
